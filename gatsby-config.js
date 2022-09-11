@@ -3,7 +3,7 @@ module.exports = {
     title: "Spookies NFT",
   },
   plugins: [
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-image`,
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
   ],
 }
